@@ -1,0 +1,2 @@
+# GitHub_Accelerater
+使用jsdelivr提供的免费CDN加速中国地区对GitHub仓库文件访问，改善浏览器环境阅读仓库内附文档的体验。
